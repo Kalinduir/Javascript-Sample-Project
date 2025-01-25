@@ -23,13 +23,6 @@ Some movies will have a beginning and an end state. In the exercise files, the e
    - [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 2. From the root folder, open the terminal and enter the command `nmp install` to install dependencies.
 
-### Instructor
-
-**Morten Rand-Hendriksen**
-
-_Web Designer and Developer_
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/morten-rand-hendriksen?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/javascript-essential-training
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2832077/2832077-1610728160487-16x9.jpg
